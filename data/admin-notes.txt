@@ -1,0 +1,10 @@
+LINUX ADMINISTRATION NOTES
+
+1. Check disk usage regularly.
+2. Monitor running processes and system resources.
+3. Verify that required services are running.
+4. Review system logs for errors.
+5. Test backups by restoring files.
+6. Keep backup files separate from source data.
+
+Purpose: Practice basic Linux system administration.

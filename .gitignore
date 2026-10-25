@@ -1,0 +1,13 @@
+# Generated backup archives
+*.tar.gz
+
+# Log files
+logs/*.log
+
+#Vim temporary files
+*.swp
+*.swo
+
+# OS/editor files
+.DS_Store
+*~
